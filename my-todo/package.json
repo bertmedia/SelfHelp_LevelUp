@@ -20,5 +20,9 @@
       "server": "server/main.js"
     },
     "testModule": "tests/main.js"
+  },
+  "devDependencies": {
+    "bert": "^1.0.0",
+    "chai": "^4.2.0"
   }
 }
